@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.9.2">
+  <diagram name="第 1 页" id="-2a866w19TVw6Tl-obMC">
+    <mxGraphModel dx="1005" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMIffOY8gYfLOkQqaD2-1" target="LeMIffOY8gYfLOkQqaD2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-1" value="进入已加入项目工作台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMIffOY8gYfLOkQqaD2-4" target="LeMIffOY8gYfLOkQqaD2-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-4" value="根据任务描述提交相应输出文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-6" value="确认提交" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeMIffOY8gYfLOkQqaD2-8" target="LeMIffOY8gYfLOkQqaD2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.07692307692287" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-12" value="未完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LeMIffOY8gYfLOkQqaD2-11">
+          <mxGeometry x="0.0333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LeMIffOY8gYfLOkQqaD2-8" target="LeMIffOY8gYfLOkQqaD2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-16" value="已完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LeMIffOY8gYfLOkQqaD2-14">
+          <mxGeometry x="0.0138" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-8" value="是否完成任务" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="119" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeMIffOY8gYfLOkQqaD2-13" target="LeMIffOY8gYfLOkQqaD2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LeMIffOY8gYfLOkQqaD2-13" value="查看任务&lt;div&gt;截止时间前可修改&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
